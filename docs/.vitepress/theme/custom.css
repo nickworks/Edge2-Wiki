@@ -1,0 +1,12 @@
+:root {
+
+--vp-c-brand-1: #64ffbc;
+--vp-c-brand-2: #237f2e;
+
+}
+ul.contains-task-list {
+    padding-left:0;
+}
+li.task-list-item {
+    list-style:none;
+}
