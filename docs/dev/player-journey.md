@@ -7,14 +7,15 @@
 	1. Appears big, and yet feels claustrophobic at times
 	2. Player discovers the corpse of William Sheffield, can hear him whispering...
 	3. Lots of nooks and crannies in manor, yet the player is funneled to a secret passage that takes them below the Manor. There, the player finds a Weird Door with a tunnel leading down into the earth.
-3. The tunnel passages open up to caves and the Gateway Chamber
+3. Player can't continue without picking up key and using it
+4. The tunnel passages open up to caves and the Gateway Chamber
 	1. The caves are expansive, but quick to run / jump through (once you know the quickest route).
 	2. The gateway chamber feels huge / scary
-4. Player sees the currently unlocked Relics.  The two starters are:
+5. Player sees the currently unlocked Relics.  The two starters are:
 	1. Ancient Key
 	2. Sanity Matrix
-5. After picking up two Relics, the gate begins activating. When the Gateway is ready, the player interacts with it, sending them to the Aether.
-6. ...
+6. After picking up two Relics, the gate begins activating. When the Gateway is ready, the player interacts with it, sending them to the Aether.
+7. ...
 ## Typical Play-through
 1. Player spawns in Manor, and takes the ***shortcut*** down to the Gateway Chamber.
 2. Picks two or more Relics to begin the run. Goes through Gateway.

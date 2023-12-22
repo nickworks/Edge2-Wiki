@@ -38,6 +38,7 @@
 - Ladder platforms
 - Islands
 - Caves
+- Crystals you can break to get sanity / health
 ## POIs
 * Altar
 	- Player places an item and sits in an Astral Throne, triggering a death animation and the item unlocking

@@ -19,7 +19,7 @@ export default defineConfig({
           { text: 'Core Feature List', link: 'dev/core-features'},
           { text: 'Player Journey', link: 'dev/player-journey'},
           { text: 'Aesthetics', link: 'dev/aesthetics'},
-          { text: 'Player Abilities', link: 'dev/player-abilities'},
+          { text: 'Item Abilities', link: 'dev/item-abilities'},
           { text: 'Roadmap', link: 'dev/roadmap'},
         ]
       }

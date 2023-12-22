@@ -1,3 +1,4 @@
+# Item Abilities
 
 - Aether Vision
 	- See invisible structures
@@ -46,3 +47,5 @@
 	- Bring additional items through the gateway
 - Sacrificial moths
 	- Remotely explore using a moth to fly around and see 
+- Retrievable spear
+	- Throw, and go get to use again
