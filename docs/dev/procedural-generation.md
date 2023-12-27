@@ -8,7 +8,7 @@
 	* Randomized islands
 	* Island features
 	* Walkway features
-* Flesh Caves
+* Caves
 	* Cube-marched terrain generation
 	* Fractally-generated plants
 

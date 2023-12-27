@@ -1,4 +1,4 @@
-# Item Abilities
+# Relic Abilities
 
 - Aether Vision
 	- See invisible structures

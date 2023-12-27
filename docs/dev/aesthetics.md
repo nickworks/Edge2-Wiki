@@ -19,7 +19,7 @@
 * The Aether
 ## Biomes in the Aether
 
-The aether's biomes are layered vertically, with the Flesh Caves at the top, the Labyrinth in the middle, and the Hanging Altars at the bottom. Each of the biomes uses procedural generation in different ways.
+The aether's biomes are layered vertically, with the Caves at the top, the Labyrinth in the middle, and the Hanging Altars at the bottom. Each of the biomes uses procedural generation in different ways.
 
 * Labyrinth
 	* Towers, halls, doors, several POIs
@@ -28,7 +28,7 @@ The aether's biomes are layered vertically, with the Flesh Caves at the top, the
 	* Many invisible platforms
 	* POIs needed for quests
 	* Challenges initiated here?
-* Flesh Caves
+* Caves
 	* Lots of growing plants
 	* Pulsing walls
 	* Bugs

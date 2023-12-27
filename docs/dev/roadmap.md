@@ -75,4 +75,4 @@
 		- [ ] What are ways player can go back up?
 - Environment Features
 	
-- Player Abilities
+- Relic Abilities

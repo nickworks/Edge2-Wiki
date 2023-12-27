@@ -7,7 +7,7 @@ In ***Edge of Madness***, the player explores a spooky, procedurally-generated l
 - [Core Feature List](dev/core-features)
 - [Player Journey](dev/player-journey)
 - [Aesthetics](dev/aesthetics)
-- [Player Abilities](dev/item-abilities)
+- [Relic Abilities](dev/relic-abilities)
 - [Roadmap](dev/roadmap)
 
 EoM 2024 is being made in Unity.
