@@ -18,7 +18,7 @@
 7. ...
 ## Typical Play-through
 1. Player spawns in Manor, and takes the ***shortcut*** down to the Gateway Chamber.
-2. Picks two or more Relics to begin the run. Goes through Gateway.
+2. Picks two (or more) Relics to begin the run. Goes through Gateway.
 3. Player spawns in one of the biomes.
 4. Looks for POIs
 	1. Altar
@@ -33,6 +33,10 @@
 		2. After working on X constructions, unlocks an item in the Manor
 	5. Sacred chamber
 ## Between Play-throughs
+1. The player can explore the mansion
+2. New sections become accessible over time
+3. Player can read texts in the library
+4. Player can "talk" to William Sheffield
 ## Long-term Progression
 1. Unlock relics in the Gateway Chamber
 2. Unlock books in the Manor Library
@@ -42,8 +46,8 @@
 	1. Each run is a new human, brought to the manor after having nightmares (of previous runs) because they are being possessed.
 	2. William Sheffield
 		1. A corpse found at the Manor
-		2. Goes by Bill
-		3. Is possessing the player in service of the entity ...
+		2. Seems friendly; goes by Bill
+		3. Is possessing the player in order to release the entity...
 	3. R'goth'vk
 		1. ???
 6. Multiple endings

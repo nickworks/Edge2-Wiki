@@ -40,15 +40,33 @@
 - Caves
 - Crystals you can break to get sanity / health
 ## POIs
+* Chests
+	* Contains an item
+	* Can be locked
 * Altar
 	- Player places an item and sits in an Astral Throne, triggering a death animation and the item unlocking
 - Jump Gates
 	- Allows player to teleport from one gate to another.
+	- Player must have an item
+	- OR player must collect X items
+	- Different items take players to different biomes
 - Transmutation Room
 	- Player can sacrifice a relic to receive a different relic. Each TR gives a specific (or random?) relic.
--  Fireplaces
+- Puzzle
+- Camps 
+- Fireplaces
 	- Can set alight
+- Wooden bridges
+- Skeleton remains / corpses
 - Fountain
 - Obelisks
 - Cages
 	- Player can free lost souls
+
+* Graveyard
+* Tomb
+* Insect nest
+* Stone henge-like structure
+* Coliseum 
+* Cathedral / altar
+* Forest
